@@ -1,5 +1,4 @@
-<Updates>
-	<File name="Game.exe" hash="SHA" url=""/>
-	<File name="./resources/a.bin" hash="SHA" url=""/>
-	<File name="./resources/b.bin" hash="SHA" url=""/>
-</Updates>
+<Update url="https://github.com/NIKEA-SOFT/SagaOnline-Updates/blob/main">
+	<File name="data/chara/00/01/0000.dat" hash=""/>
+	<File name="Game.exe" hash=""/>
+</Update>
